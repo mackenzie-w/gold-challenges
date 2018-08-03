@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Challenge_1
 {
-    class MenuRepository
+    public class MenuRepository
     {
         private List<Menu> _menuItems = new List<Menu>();
 
